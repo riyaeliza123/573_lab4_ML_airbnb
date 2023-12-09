@@ -1,3 +1,3 @@
-# DSCI_573_lab4_riya2023
+# Machine Learning using Random Forest, SVM and KNN
 
-DSCI 573 lab4 for Riya Eliza Shaju (riya2023)
+Regression problem on airbnb dataset
